@@ -6,6 +6,7 @@ permalink: /math-tutorial/
 **This article is written by [Nitin J. Sanket](http://nitinjsanket.github.io).** 
 
 updated by Cornelia Ferm&uuml;ller (1/21/2019)
+updated by Mohammad Nayeem Teli (9/03/2019)
 
 The Table of Contents:
 
